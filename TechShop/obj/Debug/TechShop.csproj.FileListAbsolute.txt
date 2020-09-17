@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\obj\Debug\TechShop.LoginPage.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\obj\Debug\TechShop.ProductDefList.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\obj\Debug\TechShop.ProductView.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\obj\Debug\TechShop.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\obj\Debug\TechShop.TechShopApp.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\obj\Debug\TechShop.UserAccount.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\obj\Debug\TechShop.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\bin\Debug\TechShop.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\bin\Debug\TechShop.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\bin\Debug\TechShop.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\obj\Debug\TechShop.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\obj\Debug\TechShop.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\obj\Debug\TechShop.RegistrationPage.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\TechShop\TechShop\obj\Debug\TechShop.HelpPage.resources
+C:\Users\USER\Documents\Projects\TechShop\TechShop\bin\Debug\TechShop.exe.config
+C:\Users\USER\Documents\Projects\TechShop\TechShop\obj\Debug\TechShop.exe
+C:\Users\USER\Documents\Projects\TechShop\TechShop\obj\Debug\TechShop.pdb
